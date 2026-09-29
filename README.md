@@ -1,10 +1,12 @@
 ### Links
-1. [![Instagram logo on a transparent background, linking to my Instagram](img)](https://instagram.com/mateogutierreezzz)
+
+<a href="https://instagram.com/mateogutierreezzz">
+<img src="/home/asir2/Repositorios/markdown/img/instalogo.png" width="50" alt="Link to my Instagram">
+</a>
 
 # ABOUT ME
 - Hi I am Mateo. I am currently studying ASIR.
 - I was born in 2007 and I live in Cantabria / Spain.
-
 - Besides IT I love videogamess, music and literature.
 
 ## Competencias
